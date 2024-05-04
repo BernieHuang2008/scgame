@@ -10,5 +10,7 @@ setup(
     author='Bernie Huang',
     author_email='BernieHuang2008@163.com',
     url='https://github.com/BernieHuang2008/scgame',
-    install_requires=[],
+    install_requires=[
+        "pygame"
+    ],
 )

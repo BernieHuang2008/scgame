@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96px"
+    height="101px" viewBox="0 0 150 150" version="1.1" xml:space="preserve">
+    <g>
+      <title>sc3py</title>
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="linearGradient4689">
+        <stop style="stop-color:#5a9fd4;stop-opacity:1;" offset="0" id="stop4691"/>
+        <stop style="stop-color:#306998;stop-opacity:1;" offset="1" id="stop4693"/>
+      </linearGradient><defs xmlns="http://www.w3.org/2000/svg"><linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" inkscape:collect="always" xlink:href="#linearGradient4689" id="linearGradient1478" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.562541,0,0,0.567972,-14.99112,-11.702371)" x1="26.648937" y1="20.603781" x2="135.66525" y2="114.39767"/></defs>
+      <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(32, 19)">
+        <path xmlns="http://www.w3.org/2000/svg" style="fill: url(#linearGradient1478);fill-opacity:1;" d="M 54.918785,9.1927421e-4 C 50.335132,0.02221727 45.957846,0.41313697 42.106285,1.0946693 30.760069,3.0991731 28.700036,7.2947714 28.700035,15.032169 v 10.21875 h 26.8125 v 3.40625 h -26.8125 -10.0625 c -7.792459,0 -14.6157588,4.683717 -16.7499998,13.59375 -2.46181998,10.212966 -2.57101508,16.586023 0,27.25 1.9059283,7.937852 6.4575432,13.593748 14.2499998,13.59375 h 9.21875 v -12.25 c 0,-8.849902 7.657144,-16.656248 16.75,-16.65625 h 26.78125 c 7.454951,0 13.406253,-6.138164 13.40625,-13.625 v -25.53125 c 0,-7.2663386 -6.12998,-12.7247771 -13.40625,-13.9374997 C 64.281548,0.32794397 59.502438,-0.02037903 54.918785,9.1927421e-4 Z m -14.5,8.21875012579 c 2.769547,0 5.03125,2.2986456 5.03125,5.1249996 -2e-6,2.816336 -2.261703,5.09375 -5.03125,5.09375 -2.779476,-1e-6 -5.03125,-2.277415 -5.03125,-5.09375 -10e-7,-2.826353 2.251774,-5.1249996 5.03125,-5.1249996 z" id="path1948" transform="rotate(180) translate(-73.000000, -112.000000)"/><g id="costume1" transform="translate(-13.000000, -10.000000)">
+          <g xmlns="http://www.w3.org/2000/svg" id="costume1.1" transform="translate(13.000000, 10.000000)">
+            <g id="head" transform="translate(14.000000, 0.000000)">
+              <path d="M39.1,9 C36.8,8.6 34.4,8.4 31.6,8.6 C26.9,8.8 22.4,10.5 22.4,10.5 L10.3,2.6 C9.9,2.4 9.4,2.7 9.5,3.1 L11.6,21 C12.2,20.2 1,33.8 8.1,45.2 C15.2,56.6 30.3,61.7 49.1,58 C67.9,54.3 72.3,43.5 71.1,37.8 C69.9,32.1 62.8,30 62.8,30 C62.8,30 62.7,25.5 59.5,20 C57.6,16.7 51.2,12 51.2,12 L48.6,1.3 C48.5,0.9 48,0.8 47.7,1 L39.1,9 Z" stroke="#001026" stroke-width="1.2" fill="#FFAB19"/>
+              <path d="M62.5,30.4 C62.5,30.4 69.4,32.2 70.6,37.9 C71.8,43.6 67,53.9 48.4,57.5 C24.2,62.5 12.7,48.1 19.4,37.5 C26.1,26.8 37.6,35.9 46,35.3 C53.2,34.8 54,28.5 62.5,30.4 Z" id="face" fill="#FFFFFF"/>
+              <path d="M31,41.1 C31,40.7 31.4,40.4 31.8,40.5 C33.7,41.2 39.1,42.8 45.1,43.2 C50.5,43.5 53.7,43.2 55.2,42.9 C55.7,42.8 56.1,43.3 55.9,43.8 C55,46.5 51.2,54 40.7,53.4 C31.6,52.4 30.7,46 31,41.1 Z" id="mouth" stroke="#001026" stroke-width="1.2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M69,35.4 C69,35.4 76.2,35.3 80.9,31.5" id="whisker" stroke="#001026" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M69.4,41.3 C69.4,41.3 73.3,43.2 79.6,42.7" id="whisker" stroke="#001026" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M45.6,32.7 C47.7,32.7 49.9,32.9 50,33.6 C50.1,35 48.6,37.8 47,37.9 C45.2,38.1 41,35.6 41,34 C40.9,32.8 43.6,32.7 45.6,32.7 Z" id="nose" stroke="#001026" stroke-width="1.2" fill="#001026" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M0.6,31.2 C0.6,31.2 9.2,34 12.7,37.1" id="whisker" stroke="#001026" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M1.3,41.2 C1.3,41.2 8.7,42.3 13,40.6" id="whisker" stroke="#001026" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+              <g id="eye" transform="translate(44.000000, 15.000000)">
+                <path d="M13.4,6 C16.3,10.5 16.4,15.6 13.6,17.4 C10.8,19.2 6.2,17.1 3.2,12.6 C0.3,8.1 0.2,3 3,1.2 C5.8,-0.7 10.5,1.5 13.4,6 Z" id="pupil" stroke="#001026" stroke-width="1.2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M13,11.7 C13,12.8 12.2,13.7 11.2,13.7 C10.2,13.7 9.4,12.8 9.4,11.7 C9.4,10.6 10.2,9.7 11.2,9.7 C12.2,9.7 13,10.6 13,11.7" id="pupil" fill="#001026"/>
+              </g>
+              <g id="eye" transform="translate(19.000000, 18.000000)">
+                <path d="M13.6,5.8 C16.6,10.2 16.4,15.6 13.7,17.5 C10.4,19.4 6,18 3,13.6 C-0.1,9.2 -0.3,3.5 2.8,1.3 C5.9,-1 10.6,1.4 13.6,5.8 Z" stroke="#001026" stroke-width="1.2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M13,11.6 C13,12.7 12.2,13.6 11.2,13.6 C10.2,13.6 9.4,12.7 9.4,11.6 C9.4,10.5 10.2,9.6 11.2,9.6 C12.2,9.7 13,10.5 13,11.6" id="pupil" fill="#001026"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </svg>
